@@ -55,6 +55,13 @@ My name is Leonardo Torrico ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌, I'm a HT
     </td>
 </tr>
 
+<tr>
+    <td align='center'>
+        <img src="https://res.cloudinary.com/djc1umong/image/upload/v1666219360/azure-services_ba0k7l.png">
+    </td>
+    
+</tr>
+
 </table>
 
 

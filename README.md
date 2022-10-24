@@ -50,16 +50,44 @@ My name is Leonardo Torrico ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌, I'm a HT
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
-	<td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
-    </td>
 </tr>
 
 <tr>
     <td align='center'>
         <img src="https://res.cloudinary.com/djc1umong/image/upload/v1666219360/azure-services_ba0k7l.png">
     </td>
-    
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png">
+    </td>
+    <td align='center'>
+        <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://i.pinimg.com/474x/74/4e/0e/744e0e6e7590e3a4c5269f906cf02430--building-apps-an-app.jpg">
+    </td>
+     <td align='center'>
+        <img src="https://react-etc.net/files/2016-06/apollo.png">
+    </td>
+     <td align='center'>
+        <img src="https://react-etc.net/files/2016-06/apollo.png">
+    </td>
+     <td align='center'>
+        <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png">
+    </td>
+    <td align='center'>
+        <img src="https://lxspandora.gallerycdn.vsassets.io/extensions/lxspandora/vscode-styled-components-snippets/1.0.2/1506443337800/Microsoft.VisualStudio.Services.Icons.Default">
+    </td>
 </tr>
 
 </table>

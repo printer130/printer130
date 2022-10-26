@@ -2,8 +2,10 @@
 <h1 align="left">
   Welcome to Leonardo(Printer130) GitHub profile!
 </h1>
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌🌌🏋🏾‍♂️🍕🐀☀️ 🍕 ☀️ 🏋🏾‍♂️
+
 I'm a HTML Programmer from 🇧🇴 🙌🏼
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB66FF&background=F1F1F100&multiline=true&width=435&lines=The+Stars+shine+for+you.)](https://git.io/typing-svg)

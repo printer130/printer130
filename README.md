@@ -2,7 +2,6 @@
 <h1 align="left">
   Welcome to Leonardo(Printer130) GitHub profile!
 </h1>
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌🌌🏋🏾‍♂️🍕🐀☀️ 🍕 ☀️ 🏋🏾‍♂️
 

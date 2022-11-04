@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  Welcome to Leonardo(Printer130) GitHub profile!
+  Welcome to Leonardo(Printer130)'s GitHub profile!
 </h1>
 
 ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌🌌🏋🏾‍♂️🍕🐀☀️ 🍕 ☀️ 🏋🏾‍♂️

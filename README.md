@@ -1,10 +1,11 @@
 
 <h1 align="left">
-  Welcome to Leonardo(Printer130) GitHub profile!
+  Welcome to Leonardo(Printer130)'s GitHub profile!
 </h1>
 
 ☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌🌌🏋🏾‍♂️🍕🐀☀️ 🍕 ☀️ 🏋🏾‍♂️
-I'm a HTML Programmer from 🇧🇴 🙌🏼
+
+HTML Programmer from 🇧🇴 🙌🏼
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB66FF&background=F1F1F100&multiline=true&width=435&lines=The+Stars+shine+for+you.)](https://git.io/typing-svg)
 

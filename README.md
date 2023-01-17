@@ -1,13 +1,10 @@
-
 <h1 align="left">
-  Welcome to Leonardo(Printer130)'s GitHub profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=435&height=70&lines=Welcome+to+my+profile!+)](https://git.io/typing-svg)
 </h1>
-
-☀️ 🍕🐀 🏋🏾‍♂️ 💖🌌🌌🏋🏾‍♂️🍕🐀☀️ 🍕 ☀️ 🏋🏾‍♂️
 
 HTML Programmer from 🇧🇴 🙌🏼
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB66FF&background=F1F1F100&multiline=true&width=435&lines=The+Stars+shine+for+you.)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
 <table width="100" align="center">

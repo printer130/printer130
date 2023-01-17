@@ -2,7 +2,7 @@
 
 HTML Programmer from 🇧🇴 🙌🏼
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=printer130&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=printer130&column=-1&margin-w=14&margin-h=14&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
 <table width="100" align="center">

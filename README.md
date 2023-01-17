@@ -1,10 +1,8 @@
-<h1 align="left">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=435&height=70&lines=Welcome+to+my+profile!+)](https://git.io/typing-svg)
-</h1>
 
 HTML Programmer from 🇧🇴 🙌🏼
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
 <table width="100" align="center">

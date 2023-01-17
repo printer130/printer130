@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=500&height=70&lines=Welcome+to+my+profile!+)]
-
-HTML Programmer from 🇧🇴 🙌🏼
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=500&height=70&lines=Welcome+to+my+profile!+)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=printer130&column=-1&margin-w=14&margin-h=14&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align='left'><i>Languages ​​and tools</i></h2>
+<h2 align='left'><i>HTML Programmer from 🇧🇴 🙌🏼</i></h2>
 <table width="100" align="center">
 <tr>
     <td align='center' width="190">

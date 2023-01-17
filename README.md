@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=500&height=70&lines=Welcome+to+my+profile!+)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=94F70E&width=500&height=70&lines=Welcome+to+my+profile!+)](https://github.com/printer130)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=printer130&column=-1&margin-w=14&margin-h=14&no-bg=true&theme=onedark)](https://github.com/printer130)
 

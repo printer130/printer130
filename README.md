@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=printer130&column=4&margin-w=14&margin-h=14&no-bg=true&theme=onedark)](https://github.com/printer130)
 </div>
-<h2 align='left'><i>HTML Programmer from 🇧🇴 🙌🏼</i></h2>
+<h2 align='left'><i>JS-Python Programmer 🇧🇴   🏼</i></h2>
 <table width="100" align="center">
 <tr>
     <td align='center' width="190">

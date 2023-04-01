@@ -3,7 +3,7 @@
 - 🥷 JavaScript Web Development.
 - 🔭 Data Science | MLOps | ETL | PYTHON.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=94F70E&width=500&height=70&lines=printing...%20...%20...%20...%20tech%20things%20🪡)](https://github.com/printer130)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=94F70E&width=800&height=70&lines=printing...%20...%20...%20...%20tech%20things%20🪡)](https://github.com/printer130)
 
 
 

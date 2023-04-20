@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djc1umong/image/upload/v1681967452/yo_cro_omhfyo.gif"/>
+<img src="[https://res.cloudinary.com/djc1umong/image/upload/v1681967452/yo_cro_omhfyo.gif](https://res.cloudinary.com/djc1umong/image/upload/v1681967794/trans_square_rkdj1s.gif)"/>
 
 - 🥷 JavaScript Web Development
 - 🔭 Python

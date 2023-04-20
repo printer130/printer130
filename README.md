@@ -1,4 +1,4 @@
-<div styles={{"display":"flex"; "flex-direction": "row";}}>
+<div styles="display":"flex">
   
   <img src="https://res.cloudinary.com/djc1umong/image/upload/v1681967919/ezgif.com-gif-maker_d6uzkc.gif"/>
 

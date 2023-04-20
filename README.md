@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/originals/d3/81/2e/d3812ec68e76e334b4ab1cb8884169a7.gif](https://i.pinimg.com/originals/d3/81/2e/d3812ec68e76e334b4ab1cb8884169a7.gif)" />
+<img src="https://i.pinimg.com/originals/d3/81/2e/d3812ec68e76e334b4ab1cb8884169a7.gif" />
 
 - 🥷 JavaScript Web Development
 - 🔭 Python
